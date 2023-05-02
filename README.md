@@ -7,6 +7,7 @@
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [Installation Process](#Installation-Process)
 - [Usage Information](#Usage-Information)
+- [Mock-Up](#Mock-Up)
 - [Built With](#Built-With)
 - [What I Learned](#What-I-Learned)
 - [Contributions](#Contributions)

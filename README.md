@@ -57,6 +57,9 @@ The following animation demonstrates the application functionality:
 5. Use Insomnia to test http://localhost:3001 with the following route end points API GET, POST, PUT, and DELETE routes for categories, products, and tags, ensuring successful creation, updating, and deletion of data in the database.
 
 ## Mock-Up
+
+- [Link to the Walk-Through Video](https://drive.google.com/file/d/1SGu6HoJRlj4d2SDs2edF_nzUvzQFGnCU/view?usp=sharing)
+
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
 ![In Insomnia, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./Assets/13-orm-homework-demo-01.gif)
